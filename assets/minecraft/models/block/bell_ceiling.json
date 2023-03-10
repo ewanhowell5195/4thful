@@ -1,0 +1,1 @@
+{"textures":{"particle":"block/bell_bottom","bar":"block/dark_oak_planks"},"elements":[{"from":[6,12,6],"to":[10,16,10],"faces":{"north":{"uv":[4,0,8,4],"texture":"#bar"},"east":{"uv":[4,0,8,4],"texture":"#bar"},"south":{"uv":[4,0,8,4],"texture":"#bar"},"west":{"uv":[4,0,8,4],"texture":"#bar"},"up":{"uv":[4,0,8,4],"texture":"#bar"},"down":{"uv":[4,0,8,4],"texture":"#bar"}}}]}

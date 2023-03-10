@@ -1,0 +1,15 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/clock_00"
+	},
+	"overrides": [
+		{"predicate": {"time": 0.0},"model": "item/clock_01"},
+		{"predicate": {"time": 0.166667},"model": "item/clock_02"},
+		{"predicate": {"time": 0.333334},"model": "item/clock_03"},
+		{"predicate": {"time": 0.500001},"model": "item/clock_04"},
+		{"predicate": {"time": 0.666668},"model": "item/clock_05"},
+		{"predicate": {"time": 0.833334},"model": "item/clock"},
+		{"predicate": {"time": 1},"model": "item/clock_01"}
+	]
+}

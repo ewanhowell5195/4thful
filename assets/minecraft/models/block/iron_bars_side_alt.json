@@ -1,0 +1,1 @@
+{"ambientocclusion":false,"textures":{"particle":"block/iron_bars","bars":"block/iron_bars"},"elements":[{"from":[8,0,8],"to":[8,16,16],"faces":{"east":{"uv":[0,0,8,16],"texture":"#bars"},"west":{"uv":[8,0,0,16],"texture":"#bars"}}}]}
